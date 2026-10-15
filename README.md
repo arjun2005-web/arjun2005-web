@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**arjun2005-web/arjun2005-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arjun, a B.Tech Computer Science and Engineering student. Passionate about full-stack web development and exploring new technologies.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Frontend:* Next.js, Vite, shadcn/ui
+- *Backend:* PostgreSQL, Drizzle ORM
+- *Tools:* VS Code, GitHub
+
+### 🚀 Projects
+
+- Check out my pinned repositories for some of the projects I've built!
+
+### 📫 How to reach me
+
+- Feel free to connect and collaborate with me on GitHub!
