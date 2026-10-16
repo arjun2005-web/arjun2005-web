@@ -13,7 +13,7 @@
 <a href="https://github.com/arjun2005-web"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=arjun2005-web&label=PROFILE+VIEWS&color=2ea043&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=arjun2005-web&label=profile+views&color=2ea043&style=flat" alt="Profile views" />
 
 </div>
 
