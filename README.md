@@ -1,16 +1,20 @@
 <div align="center">
 
 <img src="./portrait.svg" alt="Arjun P" width="320" />
+<br />
 
 <a href="https://github.com/arjun2005-web">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=520&height=40&lines=Arjun+P;Full-Stack+Developer;React+Native+%7C+Node.js;Building+apps+for+public+good" alt="Typing animation" />
 </a>
+<br /><br />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-p2005/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunajo2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun2005-web)
+<a href="https://www.linkedin.com/in/arjun-p2005/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:arjunajo2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/arjun2005-web"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br /><br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=arjun2005-web&label=profile+views&color=2ea043&style=flat)
+<img src="https://komarev.com/ghpvc/?username=arjun2005-web&label=PROFILE+VIEWS&color=2ea043&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/arjun2005-web?style=for-the-badge&logo=github&label=FOLLOWERS&color=2ea043&labelColor=181717" alt="Followers" />
 
 </div>
 
