@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/me.jpg" alt="Arjun P" width="180" />
+<img src="./me.jpg" alt="Arjun P" width="180" />
 
 ### Arjun P
 
