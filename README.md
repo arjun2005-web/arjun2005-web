@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./me.jpg" alt="Arjun P" width="180" />
+<img src="./portrait.svg" alt="Arjun P" width="320" />
 
-### Arjun P
+<a href="https://github.com/arjun2005-web">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=520&height=40&lines=Arjun+P;Full-Stack+Developer;React+Native+%7C+Node.js;Building+apps+for+public+good" alt="Typing animation" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-p2005/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunajo2005@gmail.com)
@@ -61,17 +63,7 @@ Hi, I'm **Arjun**. I build mobile and full-stack apps for civic and public-secto
 
 ---
 
-## ~/ contribution calendar
-
-<div align="center">
-
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
-
-</div>
-
----
-
-## ~/ snake
+## ~/ contribution snake
 
 <div align="center">
 
