@@ -14,7 +14,6 @@
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=arjun2005-web&label=PROFILE+VIEWS&color=2ea043&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/arjun2005-web?style=for-the-badge&logo=github&label=FOLLOWERS&color=2ea043&labelColor=181717" alt="Followers" />
 
 </div>
 
